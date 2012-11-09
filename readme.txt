@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Template Part Shortcode ===
 Contributors: MartySpellerberg
 Tags: template parts, templates, shortcode
 Requires at least: 3.4
