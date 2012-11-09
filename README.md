@@ -1,5 +1,4 @@
-Template Part Shortcode
-=======================
+# Template Part Shortcode
 
 A (very) simple WordPress plugin for embedding template parts in your content.
 
